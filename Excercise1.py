@@ -12,6 +12,7 @@ for details in data ['events_data']:
 	stoptime = (details['algorithm_fields']['stop_time'])
 	capacity = (details['algorithm_fields']['capacity'])
 	#print ('StopTime : ',stoptime, '     ','Capacity : ', capacity)
+	#To test the pull command
 
 	total_capacity += capacity
 	total_stoptime += stoptime
