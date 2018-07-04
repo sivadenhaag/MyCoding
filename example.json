@@ -1,0 +1,1604 @@
+{
+  "events_data": [
+    {
+      "algorithm_fields": {
+        "stop_time": 990.0,
+        "capacity": 123.77
+      },
+      "external_data": {
+        "reference": "09981e51-d269-4b3b-9285-dbd6d47dfc4f",
+        "original_event_id": "03e6afd4-db18-4832-a924-a662beae843b"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9829197,
+        "longitude": 4.1959556
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 83.5
+      },
+      "external_data": {
+        "reference": "6fbaacf2-42e6-425d-bd94-b64ef777bd5f",
+        "original_event_id": "056c18de-9639-4250-97a6-5a0bd7849405"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.8343072,
+        "longitude": 4.7251848
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 68.0
+      },
+      "external_data": {
+        "reference": "a01b69fa-cd0d-440e-9a5d-6bbb6cb87022",
+        "original_event_id": "06516e64-af61-4cb4-9098-33f793faa721"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.8333662,
+        "longitude": 4.9962519
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 66.5
+      },
+      "external_data": {
+        "reference": "a32f0f44-cddb-4e32-9c43-f762ef061702",
+        "original_event_id": "079ece7e-b46d-44ee-8d3f-cccf2b28375a"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.8888083,
+        "longitude": 4.4774718
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 39.0
+      },
+      "external_data": {
+        "reference": "7ee70fb8-996d-487d-8641-30c1da88eb65",
+        "original_event_id": "08482172-701c-4901-976b-5b773ffbaa83"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0240285,
+        "longitude": 4.6980749
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 930.0,
+        "capacity": 73.09
+      },
+      "external_data": {
+        "reference": "59e93e76-18e4-4330-9606-319457830342",
+        "original_event_id": "0b88b349-28d8-4e2b-8351-5df5b4d12b52"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.1353878,
+        "longitude": 4.6571201
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 90.0
+      },
+      "external_data": {
+        "reference": "6e905af9-214c-4164-b07a-ebc692af6633",
+        "original_event_id": "0c91452c-d066-4fce-8951-e4c3d4f95e48"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.3541055,
+        "longitude": 3.9873694
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 47.0
+      },
+      "external_data": {
+        "reference": "bb1b014b-d7f9-481f-a1a8-24c1597ab68d",
+        "original_event_id": "10dcf030-5a1e-47f2-b385-1de62b90f5b1"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.5140443,
+        "longitude": 3.8837856
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 960.0,
+        "capacity": 83.5
+      },
+      "external_data": {
+        "reference": "b506c892-e873-4de2-a572-462d139534c4",
+        "original_event_id": "12dd0b57-528e-47d8-967c-02e2c6e7d57d"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.83325,
+        "longitude": 4.69665
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 70.5
+      },
+      "external_data": {
+        "reference": "3adcf73b-e6ac-4d5b-88d7-ed88fc7c75f0",
+        "original_event_id": "13021d43-13be-45a4-aab6-87a24461edc3"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9661865,
+        "longitude": 4.5677731
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 150.0,
+        "capacity": 2.86
+      },
+      "external_data": {
+        "reference": "ce8b50a9-2e5f-405b-9240-c4243774ea95",
+        "original_event_id": "13c45df7-2da7-4bbb-b228-78af6c05b74e"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.956609,
+        "longitude": 4.9575801
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 46.0
+      },
+      "external_data": {
+        "reference": "4570c1ce-75b4-4c34-a924-5e47b1ce672e",
+        "original_event_id": "199a9df9-45ea-4b29-ac92-8e3ab7d3fe4d"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9232021,
+        "longitude": 4.5786141
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 720.0,
+        "capacity": 52.0
+      },
+      "external_data": {
+        "reference": "d4d8a5c8-d8b0-4b72-b287-59db626469b6",
+        "original_event_id": "19df2212-633a-49fd-9866-f9b3073d92b2"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.79218,
+        "longitude": 4.66862
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 420.0,
+        "capacity": 85.1
+      },
+      "external_data": {
+        "reference": "c87a8461-0d1a-4818-8642-7d0670a6c1c6",
+        "original_event_id": "1c703ea0-4f32-4778-a7aa-ae9960a20ac6"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0259736,
+        "longitude": 4.2940834
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 750.0,
+        "capacity": 91.94
+      },
+      "external_data": {
+        "reference": "3885d8d4-4f7e-4cb6-b0a4-7debe926a2e2",
+        "original_event_id": "1fb9bee9-2f6c-407e-be15-daa52f6982eb"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.5874165,
+        "longitude": 4.5244349
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 120.0,
+        "capacity": 3.96
+      },
+      "external_data": {
+        "reference": "6592971d-b69f-48a6-b453-14014b8c90e3",
+        "original_event_id": "2392f2cd-d036-464c-8bdf-35e1220be250"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0048235,
+        "longitude": 4.4432469
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 83.0
+      },
+      "external_data": {
+        "reference": "a502c784-c683-4bd6-9f7f-8c4152b2f7e6",
+        "original_event_id": "2831382f-cac7-43b8-a9c4-ad08036a91d5"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.831589,
+        "longitude": 4.6951858
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 64.5
+      },
+      "external_data": {
+        "reference": "844da900-f41a-46c1-aa1a-dc08a0c51590",
+        "original_event_id": "2833ad7d-12a6-4dc6-855a-cf407887c740"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9064958,
+        "longitude": 4.4882163
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 39.5
+      },
+      "external_data": {
+        "reference": "c42b9f13-1c0f-46f8-a458-f31a7df9fb17",
+        "original_event_id": "294ca717-8caf-4cf0-af5b-373e7a447fbc"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0706834,
+        "longitude": 4.4968596
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 73.0
+      },
+      "external_data": {
+        "reference": "113b1343-5c60-4b80-b771-1f995136d00d",
+        "original_event_id": "294f6dd8-145b-4129-b0dd-b71110bd1a3d"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.8012624,
+        "longitude": 4.6575104
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 75.0
+      },
+      "external_data": {
+        "reference": "9e6594f1-3ac3-4f13-98f9-c3f12bbc7cd1",
+        "original_event_id": "2ad0ea22-8f51-411b-89fa-2d0187f96c47"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0037777,
+        "longitude": 4.1572426
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 46.0
+      },
+      "external_data": {
+        "reference": "3307ac8d-17f9-438e-9518-40138e68479a",
+        "original_event_id": "2cc553b8-51c4-4531-9597-1742a6f8b831"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0843014,
+        "longitude": 4.3377079
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 74.0
+      },
+      "external_data": {
+        "reference": "baad5666-cbf5-4b6f-b2fd-be1570965bb6",
+        "original_event_id": "30202e95-7799-4e03-a7dc-1473e40c079e"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.8220072,
+        "longitude": 4.7659902
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 900.0,
+        "capacity": 109.0
+      },
+      "external_data": {
+        "reference": "6b5b1cd7-7b9d-48da-8f2a-ebfd7d75a749",
+        "original_event_id": "304eb29f-3953-460d-9a4a-9dd7e46427f5"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0006809,
+        "longitude": 4.4676999
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 65.0
+      },
+      "external_data": {
+        "reference": "e2e05c8b-657a-4ffb-9be6-4333c5f2bb0f",
+        "original_event_id": "348a2f0f-6ee0-45c3-9c01-9771eb86866d"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.4554049,
+        "longitude": 3.5736139
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 62.0
+      },
+      "external_data": {
+        "reference": "350a2961-1144-4948-8978-726d86301c15",
+        "original_event_id": "351a0ee8-dc96-4573-9e54-8187fc8c13c0"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0623873,
+        "longitude": 4.4044086
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 80.0
+      },
+      "external_data": {
+        "reference": "7a2e8b3e-3d29-4f4e-acb1-788cbf19918e",
+        "original_event_id": "36d988e4-8114-4312-8eba-40e542494e70"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0859647,
+        "longitude": 4.3781954
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 67.0
+      },
+      "external_data": {
+        "reference": "9d40a54f-a4f2-49c8-9c9b-03630c98b601",
+        "original_event_id": "37a26e97-b78b-41a6-b4d4-bbf236db8cc5"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.8549437,
+        "longitude": 4.3135632
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 720.0,
+        "capacity": 28.5
+      },
+      "external_data": {
+        "reference": "a2550424-a911-4bfa-bb0a-8ef864a94076",
+        "original_event_id": "37ffcb52-9b4f-48f1-8f15-700b8ce7c9a9"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.99576,
+        "longitude": 4.2055
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 1080.0,
+        "capacity": 47.0
+      },
+      "external_data": {
+        "reference": "e19fd5db-287e-491b-bd8e-fb17588d27d3",
+        "original_event_id": "3acf53e4-fb1b-4c3d-a36f-a1e407271133"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0932458,
+        "longitude": 4.3899253
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 86.0
+      },
+      "external_data": {
+        "reference": "9017febc-2c6a-44ef-857c-9ce2553b5e36",
+        "original_event_id": "3ae9817d-a301-4a2d-8ffa-f2d3c194abc1"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9351298,
+        "longitude": 4.4627228
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 420.0,
+        "capacity": 45.5
+      },
+      "external_data": {
+        "reference": "3259f5fb-1481-47fc-a08a-2816c77be7c6",
+        "original_event_id": "3d6670f6-d340-44f0-9174-92604998eba5"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.8895398,
+        "longitude": 4.4752227
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 720.0,
+        "capacity": 56.06
+      },
+      "external_data": {
+        "reference": "8996b607-fe3c-446b-8235-d592dff0da64",
+        "original_event_id": "3e35a83b-89dd-49cf-a405-4ad52994755d"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9681712,
+        "longitude": 4.622446
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 66.0
+      },
+      "external_data": {
+        "reference": "68daa9c5-956e-4f3e-b77a-de558689dab6",
+        "original_event_id": "426b0c2c-2cca-4399-8e0f-b46cdf9c5d78"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9437701,
+        "longitude": 4.4569949
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 81.0
+      },
+      "external_data": {
+        "reference": "ad411764-1956-417d-a603-064fa92d054d",
+        "original_event_id": "43554e8b-7686-4fa7-8a57-13a58c0b7ffa"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0624632,
+        "longitude": 4.3524864
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 74.0
+      },
+      "external_data": {
+        "reference": "848744f6-7f40-4d07-99da-7303094c96e1",
+        "original_event_id": "4366c196-998f-44a8-9b18-37e9fc62111f"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.6443642,
+        "longitude": 4.5825299
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 70.0
+      },
+      "external_data": {
+        "reference": "9a1612e7-5bfb-4d33-bb41-fdec9ebc3587",
+        "original_event_id": "442cba45-7e4a-4485-af25-27c6dda671a7"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0788891,
+        "longitude": 4.2761965
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 56.0
+      },
+      "external_data": {
+        "reference": "39bb6038-e6b0-4ebc-9ee7-f283573880c5",
+        "original_event_id": "45be0a3d-730d-4cd2-a565-57705ac1c23a"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9138458,
+        "longitude": 4.3355129
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 1020.0,
+        "capacity": 66.0
+      },
+      "external_data": {
+        "reference": "bb2c53d1-3a04-43ef-b704-0ec17b60815a",
+        "original_event_id": "45e4490c-8eac-4093-8661-876d2e8c52a2"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0675965,
+        "longitude": 4.3055251
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 150.0,
+        "capacity": 2.81
+      },
+      "external_data": {
+        "reference": "c85acf8d-3e15-4e3a-bba6-268f3b1526be",
+        "original_event_id": "4628a894-2049-4be8-98a2-27b84b6fddfa"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0231943,
+        "longitude": 4.35549
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 930.0,
+        "capacity": 134.0
+      },
+      "external_data": {
+        "reference": "ed5efee0-fe37-4893-87c0-ffe3cdff1d6a",
+        "original_event_id": "4a5b8d67-82b7-4c3c-9d7b-4dbb53e46f3b"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9477897,
+        "longitude": 4.5707938
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 690.0,
+        "capacity": 93.0
+      },
+      "external_data": {
+        "reference": "43ceca88-840a-4f05-96a8-adb08799bbc6",
+        "original_event_id": "4c3744f9-9c43-4588-a4f3-d8717fcefa22"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.8843984,
+        "longitude": 4.4696002
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 48.5
+      },
+      "external_data": {
+        "reference": "5bd63780-c1e9-450f-a058-9b3f585a1edd",
+        "original_event_id": "4d658c07-d7ef-4caf-9764-33fbce641bb8"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9358547,
+        "longitude": 4.4395815
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 1080.0,
+        "capacity": 53.0
+      },
+      "external_data": {
+        "reference": "df1aa07c-3e23-4fdd-9f1c-39599f6e96bc",
+        "original_event_id": "4fbe93ef-f7e7-43db-a9d8-a51f2f3628b7"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.8633855,
+        "longitude": 4.6525397
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 690.0,
+        "capacity": 43.45
+      },
+      "external_data": {
+        "reference": "ee78ccc6-bba3-4556-92f2-7fbb01fbb121",
+        "original_event_id": "52426824-ef20-4f0d-bd2e-2f8ca2216669"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.8857812,
+        "longitude": 4.5600038
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 52.0
+      },
+      "external_data": {
+        "reference": "fa658fa2-9fea-4e6d-a594-aa904008c2db",
+        "original_event_id": "5410f4b9-fb68-41ab-a47f-48b65b7ec49a"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9120663,
+        "longitude": 4.330231
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 72.0
+      },
+      "external_data": {
+        "reference": "ebb42852-60aa-4733-ac5a-8afd07346b0b",
+        "original_event_id": "56975fc9-029a-448b-b7e6-333e7fc18fc8"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.825168,
+        "longitude": 4.155055
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 66.5
+      },
+      "external_data": {
+        "reference": "db2812ed-1f0e-4cdb-8ffd-41a63678e2f6",
+        "original_event_id": "569ac41f-b65f-4ea8-947a-42807e671ec5"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.8744997,
+        "longitude": 4.6403987
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 83.5
+      },
+      "external_data": {
+        "reference": "4ef4e04e-be4c-4f05-936e-411cf03366e6",
+        "original_event_id": "5dc87941-7444-40ee-85ed-887982ddbe30"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.819234,
+        "longitude": 4.6383733
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 900.0,
+        "capacity": 103.0
+      },
+      "external_data": {
+        "reference": "7952910e-af16-481f-ab00-f5a761fc48a9",
+        "original_event_id": "5eac52fc-8458-4199-b5f0-0d4c9f92aa0a"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.8299616,
+        "longitude": 4.9770958
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 690.0,
+        "capacity": 44.86
+      },
+      "external_data": {
+        "reference": "b95c42b4-6cb3-4206-a27b-977d60a58702",
+        "original_event_id": "623cea84-9313-4703-a8dc-2d52e7919181"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.8919095,
+        "longitude": 4.4654418
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 104.5
+      },
+      "external_data": {
+        "reference": "da0a6c37-f2b3-428a-9c2b-6ae37527b8fb",
+        "original_event_id": "62776796-6323-4e7c-9ef2-bfceab0639d7"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.8996427,
+        "longitude": 4.4762701
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 420.0,
+        "capacity": 31.73
+      },
+      "external_data": {
+        "reference": "07c6a849-6976-4181-acae-f8f24f7a18ea",
+        "original_event_id": "65cb8289-920f-4c74-bafd-e1a59aaa4e4f"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0584276,
+        "longitude": 4.3281998
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 810.0,
+        "capacity": 57.81
+      },
+      "external_data": {
+        "reference": "ce21ec01-b776-4956-9312-d109a22163c0",
+        "original_event_id": "660a956e-abfb-40bb-a250-96d8c82edf00"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.11462,
+        "longitude": 4.44487
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 390.0,
+        "capacity": 0
+      },
+      "external_data": {
+        "reference": "267f7dbe-87de-4421-b689-fe3a7343a4b6",
+        "original_event_id": "66461643-2e0a-41c0-934d-9b34de1c43d5"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.08487,
+        "longitude": 4.33228
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 930.0,
+        "capacity": 170.0
+      },
+      "external_data": {
+        "reference": "85c0a88c-2c8b-4c23-a480-301b08935853",
+        "original_event_id": "66c46405-f96c-41d2-ba02-a1f5085729c2"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.7286094,
+        "longitude": 4.4355487
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 420.0,
+        "capacity": 60.0
+      },
+      "external_data": {
+        "reference": "127f8dc5-0c86-4830-83bb-f1389f7071db",
+        "original_event_id": "6b40aca9-e97d-4f4d-b601-029ff984b585"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.1477319,
+        "longitude": 4.4765987
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 81.0
+      },
+      "external_data": {
+        "reference": "26f755db-00dd-44cb-9e5a-3ec63b5e3448",
+        "original_event_id": "6bfa3520-48aa-4a82-acec-74b949c1d337"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0812307,
+        "longitude": 4.378514
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 630.0,
+        "capacity": 77.78
+      },
+      "external_data": {
+        "reference": "0e387bb6-a544-4264-ab40-5c1913866dc8",
+        "original_event_id": "6e9a6701-c7bb-479f-af85-bad5653bff50"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9317449,
+        "longitude": 4.4734675
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 960.0,
+        "capacity": 65.1
+      },
+      "external_data": {
+        "reference": "ea49add5-44fb-4b4f-82be-c6462dbde410",
+        "original_event_id": "6ed1cf1f-7195-45a4-b834-449e9e36fc58"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9764699,
+        "longitude": 4.5831393
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 76.5
+      },
+      "external_data": {
+        "reference": "4a9a9bb0-c79a-4277-a62b-54f283185779",
+        "original_event_id": "6ed960d9-a225-4d28-b59a-6833a7f39222"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.912281,
+        "longitude": 4.4913981
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 69.0
+      },
+      "external_data": {
+        "reference": "61de629f-ed3c-4ca1-ae59-2f6e3144c8db",
+        "original_event_id": "6f2b8001-65fb-4735-848d-203b2978af4e"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.1450849,
+        "longitude": 4.6667055
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 76.5
+      },
+      "external_data": {
+        "reference": "272b5af8-8912-49b8-85e3-76168a657429",
+        "original_event_id": "6ff781e2-bf8f-418c-b622-356b42db6a73"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9121901,
+        "longitude": 4.5935856
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 77.0
+      },
+      "external_data": {
+        "reference": "17b93bb4-6496-4947-b270-4546d4f86a99",
+        "original_event_id": "70bf541e-7f0f-48c9-a108-e4791ca6bad4"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.8327286,
+        "longitude": 4.9975153
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 98.0
+      },
+      "external_data": {
+        "reference": "207d6300-a023-45b2-b7b8-cb66328e71f7",
+        "original_event_id": "7228ad89-bea4-4fa9-9e7d-1795ce3ddb7d"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.8275293,
+        "longitude": 4.6607752
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 79.0
+      },
+      "external_data": {
+        "reference": "40132014-878b-4921-88bc-b960dea11b17",
+        "original_event_id": "74d91e46-feaa-4bf8-9bb3-bb44f60a1ea9"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0211854,
+        "longitude": 4.7265083
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 46.0
+      },
+      "external_data": {
+        "reference": "beba4d05-d5d8-40f1-8b65-64e5b0c8dea8",
+        "original_event_id": "79c4e75e-ad9f-432c-ab8e-46d421e584f1"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.8891355,
+        "longitude": 4.4879884
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 70.5
+      },
+      "external_data": {
+        "reference": "b2d18fac-aca4-406e-8982-07ce16a95a8b",
+        "original_event_id": "7a5e6405-5d73-47cc-801f-093c8d8878c4"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.7984218,
+        "longitude": 4.3509007
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 28.0
+      },
+      "external_data": {
+        "reference": "31c95851-ec0f-42ba-9932-4f9e8ec13744",
+        "original_event_id": "7b370aac-e790-44eb-bb35-270f363a53d5"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9540787,
+        "longitude": 4.5205246
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 76.0
+      },
+      "external_data": {
+        "reference": "709977fb-599b-488b-95d4-0469be54b68c",
+        "original_event_id": "7cd11381-c062-4fdc-8311-c4af11ae8a53"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9887938,
+        "longitude": 4.2102091
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 71.0
+      },
+      "external_data": {
+        "reference": "744a1c31-ce5c-4899-a203-68731bccdbcf",
+        "original_event_id": "7e7031e3-1afa-4bd8-9673-8bba1f83300d"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.006733,
+        "longitude": 4.3951419
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 81.0
+      },
+      "external_data": {
+        "reference": "c9bfb805-43f8-4310-a751-1ca716f36066",
+        "original_event_id": "80c9afcf-5f42-4e6f-aa89-54273d88db0d"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.8472191,
+        "longitude": 4.4911086
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 690.0,
+        "capacity": 102.8
+      },
+      "external_data": {
+        "reference": "dcb86ec4-897f-4975-a02a-87ca5c125561",
+        "original_event_id": "8224e0f5-c18c-44cf-bbfa-102d616ba3af"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9929614,
+        "longitude": 4.4604581
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 33.0
+      },
+      "external_data": {
+        "reference": "d18d3c86-4619-4262-b25b-a9718a8105e1",
+        "original_event_id": "836085b0-6ec5-4eac-9c8a-e866588f3053"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0820873,
+        "longitude": 4.3365791
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 74.0
+      },
+      "external_data": {
+        "reference": "6f39a7db-8e35-47b5-a9c8-9cf6506ccff8",
+        "original_event_id": "8639258a-32dc-4ed9-93c6-e1d79117e7c0"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.1083085,
+        "longitude": 4.2766718
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 83.5
+      },
+      "external_data": {
+        "reference": "7a03ff7d-b874-47a1-9f56-998226904630",
+        "original_event_id": "874782b9-f421-4360-9c28-5aac2e87a7eb"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.909505,
+        "longitude": 4.3948787
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 72.0
+      },
+      "external_data": {
+        "reference": "d3c8f348-fc69-4fb6-bec8-e33f1d3371ab",
+        "original_event_id": "87d5d8ea-1d1d-447f-8404-44914884dbb9"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.8518281,
+        "longitude": 4.3115498
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 28.0
+      },
+      "external_data": {
+        "reference": "e4504bf9-6425-4079-8698-fbee14ac4cb9",
+        "original_event_id": "88d0bb79-7c89-4eff-ac24-274dd2cc3990"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9434284,
+        "longitude": 4.4969486
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 69.5
+      },
+      "external_data": {
+        "reference": "f1baf846-d750-428e-9163-12b798525229",
+        "original_event_id": "8ac14607-c397-48a5-a67b-feb280836c63"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0248547,
+        "longitude": 4.7120291
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 960.0,
+        "capacity": 80.0
+      },
+      "external_data": {
+        "reference": "8bf7a8b2-b2a4-4e41-b319-ced2fa86e1ef",
+        "original_event_id": "90ab6815-519f-465d-8b5d-50cfd53cbcb2"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.06674,
+        "longitude": 4.35455
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 89.5
+      },
+      "external_data": {
+        "reference": "6eb38196-f4b6-410a-8ae2-4d96c06dfc80",
+        "original_event_id": "92565e81-5a2c-4f05-b9d8-45296a42793e"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0878974,
+        "longitude": 4.3462701
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 32.0
+      },
+      "external_data": {
+        "reference": "f1391886-dc41-4be8-a9c9-6325eda7120f",
+        "original_event_id": "92b66885-c82e-402d-a5af-cfb57d050c60"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.7977886,
+        "longitude": 4.4947596
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 900.0,
+        "capacity": 105.0
+      },
+      "external_data": {
+        "reference": "46dc469a-98fa-470d-a740-aa4e58241c0b",
+        "original_event_id": "93278b00-5798-46a0-a040-9e41d989cd94"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.8079427,
+        "longitude": 3.9383019
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 56.0
+      },
+      "external_data": {
+        "reference": "15ca3d86-7403-43ca-9410-4acd9c97ffe4",
+        "original_event_id": "93927619-bf72-4110-bcef-984bb0aecb92"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9149479,
+        "longitude": 4.4385778
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 81.0
+      },
+      "external_data": {
+        "reference": "3cf11ac3-30d2-40e8-8c85-1f0055e37ee5",
+        "original_event_id": "95acaf64-c92a-4ea7-b1b3-ad2fe39d461b"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.1527119,
+        "longitude": 4.6559611
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 78.5
+      },
+      "external_data": {
+        "reference": "c3ac3c99-2dce-4350-88c9-d4dd9bbfc07f",
+        "original_event_id": "9894767e-98e6-4cb4-9597-62f823ddd3ba"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9132697,
+        "longitude": 4.6160127
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 900.0,
+        "capacity": 137.5
+      },
+      "external_data": {
+        "reference": "079d4206-a9fc-4274-95c3-9274307489ef",
+        "original_event_id": "9a7c0695-c7d8-4ca1-8ff1-63fad853d7aa"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9068809,
+        "longitude": 4.2450143
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 40.5
+      },
+      "external_data": {
+        "reference": "3ae82a44-1b48-4aba-8010-c2fef65078cd",
+        "original_event_id": "9b5e1c27-576f-4f7d-9283-6e311fe2cc9e"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9367857,
+        "longitude": 4.3603564
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 72.8
+      },
+      "external_data": {
+        "reference": "516db83f-ba16-47d9-88b5-b701dad7a61a",
+        "original_event_id": "9bfe883c-5340-43a9-ba34-34c938330de5"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.1038465,
+        "longitude": 4.4238121
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 68.0
+      },
+      "external_data": {
+        "reference": "5892b9fe-cebd-4cf8-9109-a1ca8b3ca455",
+        "original_event_id": "a001bb85-c842-4c90-a18a-ebec9ad9e8e4"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9010246,
+        "longitude": 4.4843585
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 38.0
+      },
+      "external_data": {
+        "reference": "ffe4ce4a-6c8b-4671-a6ed-7ac4f51b7aca",
+        "original_event_id": "a16e85d9-9c53-46f5-b384-8689b5b7bdbe"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.8207142,
+        "longitude": 4.7976305
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 1080.0,
+        "capacity": 46.0
+      },
+      "external_data": {
+        "reference": "dfdb7536-407a-4665-9a30-4f16e4524ea2",
+        "original_event_id": "a2910082-d044-4f88-b0fd-0d83d717ac5b"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.014482,
+        "longitude": 4.811143
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 300.0,
+        "capacity": 24.0
+      },
+      "external_data": {
+        "reference": "c6d06a9f-e013-4af0-a847-17efabfdb5a3",
+        "original_event_id": "a4a16305-9646-48e4-a581-8d3cd08e4b5e"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9210205,
+        "longitude": 4.622416
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 840.0,
+        "capacity": 63.0
+      },
+      "external_data": {
+        "reference": "b538d6a4-595c-4ebf-9213-ae48593d2214",
+        "original_event_id": "a6eaae50-c211-4ae5-aa2e-8da38464f2ba"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0609795,
+        "longitude": 4.2892933
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 930.0,
+        "capacity": 126.0
+      },
+      "external_data": {
+        "reference": "3e2228fe-62f6-486b-ac96-5b260aa3b3ac",
+        "original_event_id": "aa68d289-7081-40d3-92b5-3132dc85eea9"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0940861,
+        "longitude": 4.3964449
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 930.0,
+        "capacity": 170.0
+      },
+      "external_data": {
+        "reference": "85c0a88c-2c8b-4c23-a480-301b08935853",
+        "original_event_id": "aa769159-0f16-4df6-a871-4674cd8c3c54"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.7286094,
+        "longitude": 4.4355487
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 990.0,
+        "capacity": 110.35
+      },
+      "external_data": {
+        "reference": "d0615cfe-8bcf-49a4-8a7f-4586c7d22323",
+        "original_event_id": "aaa1c024-9dac-42d5-a85b-371e66efa88c"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.0835177,
+        "longitude": 4.2835676
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 39.5
+      },
+      "external_data": {
+        "reference": "e676be84-e78e-4092-9c65-1a57f19edd62",
+        "original_event_id": "aea3d0df-1857-4564-bfde-04eaae761392"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.185599,
+        "longitude": 4.7759988
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 40.0
+      },
+      "external_data": {
+        "reference": "843d7fc6-15c0-4f12-b54b-d254a8b0dfa4",
+        "original_event_id": "b1bf17b0-c528-4d1c-8f37-f471d003d497"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 51.9757112,
+        "longitude": 4.5835226
+      }
+    },
+    {
+      "algorithm_fields": {
+        "stop_time": 600.0,
+        "capacity": 79.0
+      },
+      "external_data": {
+        "reference": "4a4ac0b2-307c-43af-9a90-927a467cf599",
+        "original_event_id": "b3447b16-a51c-43e1-bfc3-118c6495ff27"
+      },
+      "min_time": "2018-06-07T05:30:00Z",
+      "max_time": "2018-06-07T20:00:00Z",
+      "geo_point": {
+        "latitude": 52.1493325,
+        "longitude": 4.7697077
+      }
+    }
+  ]
+}
