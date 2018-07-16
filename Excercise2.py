@@ -8,6 +8,8 @@ with open('example.json') as file:
 total_capacity = 0
 total_stoptime = 0
 
+csv_data = {}
+
 for details in data ['events_data']:
 
 	longitude	= (details['geo_point']['longitude'])
@@ -15,16 +17,19 @@ for details in data ['events_data']:
 	stoptime 	= (details['algorithm_fields']['stop_time'])
 	capacity 	= (details['algorithm_fields']['capacity'])
 	
-	
 	#print ('Longitude :',longitude, ' ','Latitude :', latitude, ' ','StopTime : ',stoptime, ' ','Capacity :', capacity)
 
-# 	total_capacity += capacity
-# 	total_stoptime += stoptime
+	csv_data['longitude'] = longitude
+	csv_data['latitude'] = latitude
+	csv_data['stoptime'] = stoptime
+	csv_data['capacity'] = capacity
 
-# print('The total capacity is:', total_capacity, 'Units', '&&', 'The total stoptime is:',stoptime/60,'Hours')
+	print(csv_data)
+
+	with open ("Output.csv","w") as csvFile:
+		writer = csv.writer(csvFile)
+		writer.writerow(['Longitude','Latitude','Stoptime','Capacity'])
+		for row in csv_data:
+			writer.writerow(row)
 
 
-with open('emaple_csv.csv', 'w') as csvfile:
-	csv_writer = csv.writer(csvfile, delimiter=',')
-	for line in csv:
-		csv_writer.writerow(line)
